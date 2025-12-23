@@ -1,16 +1,6 @@
-# Project Based Learning
-
-This repository contains various Python projects developed for learning purposes.
-
-## Projects
-
 ### Test Score Predictor
 
 A Python program that uses linear regression to predict test scores based on study hours. It allows users to input their past test scores and corresponding study hours, then predicts future test scores and calculates the required study hours to achieve a desired grade.
-
-### Search Engine
-
-A simple Python script that uses the Exa API to search for content on TikTok. It allows users to input a search query and returns the top 5 keyword-based results from TikTok.
 
 ## Features
 
@@ -34,16 +24,6 @@ A simple Python script that uses the Exa API to search for content on TikTok. It
    ```
    python "test score predictor.py"
    ```
-
-### Search Engine
-
-1. Navigate to the `Search Engine/` directory
-2. Run the script using:
-   ```
-   python main.py
-   ```
-3. Enter your search query when prompted
-4. View the top 5 TikTok results
 
 ## Usage
 
@@ -104,3 +84,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Feel free to fork and improve the program. Suggestions for enhancements are welcome.
+
