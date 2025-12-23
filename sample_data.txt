@@ -1,0 +1,11 @@
+Sample Data for Test Score Predictor
+
+Example input data points:
+- Test Score: 85, Hours Studied: 10
+- Test Score: 90, Hours Studied: 12
+- Test Score: 78, Hours Studied: 8
+- Test Score: 92, Hours Studied: 14
+
+For a desired score of 95 with 15 planned study hours:
+- Predicted score: ~93
+- Required hours for 95: ~16
